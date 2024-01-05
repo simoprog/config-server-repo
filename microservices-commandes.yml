@@ -16,4 +16,9 @@ spring:
       enabled: true
 mes-configs:
   limitDeCommandes: 10
-
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  
