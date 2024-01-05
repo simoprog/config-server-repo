@@ -8,3 +8,5 @@ spring:
       enabled: true
 mes-configs:
   limitDeCommandes: 10
+server:
+  port: 9001
