@@ -15,4 +15,4 @@ spring:
 mes-configs:
   limitDeCommandes: 10
 server:
-  port: 9001
+  port: 9002
